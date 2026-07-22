@@ -12,4 +12,8 @@
     <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AssetsTools.NET" Version="3.0.3" />
+  </ItemGroup>
+
 </Project>
